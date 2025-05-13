@@ -9,7 +9,7 @@ This script helps to automate the cleanup process, it will get a list of EKS clu
 git clone https://github.com/realjoshparker/aws-helpers.git
 ```
 
-2) Navigate to the `fetch-by-vpc` directory and install the dependencies
+2) Navigate to the `cleanup-abandoned-scrapers` directory and install the dependencies
 ```bash
 cd aws-helpers/eks/cleanup-abandoned-scrapers
 pip3 install -r requirements.txt
